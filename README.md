@@ -93,14 +93,6 @@ Jupyter notebooks from my Big Data Analytics coursework (practicals 6 and 7).
 
 ---
 
-## 📊 GitHub Activity
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryannPathak&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/AryannPathak)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AryannPathak&theme=tokyonight&hide_border=true)](https://github.com/AryannPathak)
-
----
-
 ## 📜 Certifications
 
 | Certification | Issuer | Status |
@@ -128,3 +120,4 @@ Jupyter notebooks from my Big Data Analytics coursework (practicals 6 and 7).
 ---
 
 *Consistency beats intensity. Building one commit at a time.*
+
